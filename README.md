@@ -8,4 +8,4 @@
 - 👯 I’m looking to collaborate on Web Development
 - 💬 Ask me about anything
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devamanin&layout=compact)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devamanin&layout=compact)](https://github.com/devamanin)
