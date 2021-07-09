@@ -1,4 +1,5 @@
 ### Hi 👋, I'm Aman Kumar
+___
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=08A5E4&lines=A+self+taught+UI+Designer;Full-Stack+web+developer+and+app+developer;Currently+learning+new+things)](https://git.io/typing-svg)
 
 - 🔭 I’m currently working on ...
