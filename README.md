@@ -1,6 +1,6 @@
 ### Hi 👋, I'm Aman Kumar
 - - - 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=08A5E4&lines=A+self+taught+UI+Designer;Full-Stack+web+developer+and+app+developer;Currently+learning+new+things)]()
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=08A5E4&lines=A+self+taught+UI+Designer;Full-Stack+web+developer+and+app+developer;Currently+learning+new+things)]('https://github.com/devamanin')
 
 - 🌱 I’m currently learning React
 - 👯 I’m looking to collaborate on Web Development
